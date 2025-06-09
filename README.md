@@ -1,12 +1,1 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# SimpleTextCompare\n\n**SimpleTextCompare** is a user-friendly web application that allows you to compare two text snippets side-by-side. It provides beautiful highlighting for differences and powerful editing tools, making it easy to identify changes, copy content, and download comparison results.\n\n## Live Demo\n\nExperience SimpleTextCompare live: [https://simpletextcompare-15c57.web.app/](https://simpletextcompare-15c57.web.app/)\n\n## Features\n\n*   **Side-by-Side Comparison:** Easily compare two texts with clear highlighting of added, removed, and changed lines.\n*   **Detailed Statistics:** Get insights into the number of added, removed, changed, and equal lines.\n*   **Actionable Tools:** Copy text from one pane to another, clear all content, and download comparison results.\n*   **Responsive Design:** Enjoy a seamless experience on various devices.\n*   **Modern UI:** Built with React and Tailwind CSS for a sleek and intuitive interface.\n\n## Technologies Used\n\n*   React\n*   Vite\n*   Tailwind CSS\n*   Lucide React (for icons)\n\n## Getting Started\n\nTo run this project locally, follow these steps:\n\n1.  **Clone the repository:**\n    \`\`\`bash\n    git clone https://github.com/rishibaghel25/simpletextcompare.git # Replace with your actual repo URL\n    \`\`\`\n2.  **Navigate to the project directory:**\n    \`\`\`bash\n    cd simpletextcompare\n    \`\`\`\n3.  **Install dependencies:**\n    \`\`\`bash\n    npm install\n    \`\`\`\n4.  **Start the development server:**\n    \`\`\`bash\n    npm run dev\n    \`\`\`\n\nThis will start the application in development mode, typically accessible at `http://localhost:5173`.\n
