@@ -1,1 +1,35 @@
-# SimpleTextCompare\n\n**SimpleTextCompare** is a user-friendly web application that allows you to compare two text snippets side-by-side. It provides beautiful highlighting for differences and powerful editing tools, making it easy to identify changes, copy content, and download comparison results.\n\n## Live Demo\n\nExperience SimpleTextCompare live: [https://simpletextcompare-15c57.web.app/](https://simpletextcompare-15c57.web.app/)\n\n## Features\n\n*   **Side-by-Side Comparison:** Easily compare two texts with clear highlighting of added, removed, and changed lines.\n*   **Detailed Statistics:** Get insights into the number of added, removed, changed, and equal lines.\n*   **Actionable Tools:** Copy text from one pane to another, clear all content, and download comparison results.\n*   **Responsive Design:** Enjoy a seamless experience on various devices.\n*   **Modern UI:** Built with React and Tailwind CSS for a sleek and intuitive interface.\n\n## Technologies Used\n\n*   React\n*   Vite\n*   Tailwind CSS\n*   Lucide React (for icons)\n\n## Getting Started\n\nTo run this project locally, follow these steps:\n\n1.  **Clone the repository:**\n    \`\`\`bash\n    git clone https://github.com/rishibaghel25/simpletextcompare.git # Replace with your actual repo URL\n    \`\`\`\n2.  **Navigate to the project directory:**\n    \`\`\`bash\n    cd simpletextcompare\n    \`\`\`\n3.  **Install dependencies:**\n    \`\`\`bash\n    npm install\n    \`\`\`\n4.  **Start the development server:**\n    \`\`\`bash\n    npm run dev\n    \`\`\`\n\nThis will start the application in development mode, typically accessible at `http://localhost:5173`.\n
+# 📝 SimpleTextCompare
+
+**SimpleTextCompare** is a modern and intuitive web application that lets you compare two blocks of text side by side. With rich visual highlighting and interactive tools, it's the perfect solution for developers, writers, and anyone who needs to analyze text changes quickly and clearly.
+
+🔗 **Live Demo:** [https://simpletextcompare-15c57.web.app/](https://simpletextcompare-15c57.web.app/)
+
+---
+
+## 🚀 Features
+
+- ✅ **Side-by-Side Comparison**  
+  Visually compare two texts with highlighted differences — added, removed, or modified lines.
+
+- 📊 **Detailed Diff Statistics**  
+  See the number of changed, added, removed, and identical lines at a glance.
+
+- 🧰 **Powerful Editing Tools**  
+  Copy content between panes, clear inputs, and download comparison results effortlessly.
+
+- 📱 **Responsive Design**  
+  Seamlessly works on desktops, tablets, and mobile devices.
+
+- 🎨 **Modern UI/UX**  
+  Built with **React** and **Tailwind CSS** for a clean, responsive, and fast experience.
+
+---
+
+## 🛠️ Tech Stack
+
+- **React** — Frontend Framework  
+- **Vite** — Lightning-fast build tool  
+- **Tailwind CSS** — Utility-first CSS framework  
+- **Lucide React** — Beautiful icon library
+
+---
